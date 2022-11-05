@@ -1,0 +1,17 @@
+Requirements
+
+1. JDK 
+https://www.oracle.com/in/java/technologies/javase/jdk11-archive-downloads.html
+
+2.Eclipse IDE
+https://www.eclipse.org/downloads/
+
+3. MySQL
+https://dev.mysql.com/downloads/installer/
+
+4.MySQL Connector 
+https://dev.mysql.com/downloads/connector/j/
+
+
+
+
